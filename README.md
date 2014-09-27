@@ -15,8 +15,6 @@ This time, the challenge was about a turn based game.
 
 It is no longer accessible. But I guess it will be soon, as training challenge.
 
-We can see my solution passing the test suite on [this page](http://www.codingame.com/challengereport/34789145d56e75893ff81d9882d06b3713fe89)
-
 ##My Solution
 
 It passes 100% of the tests ! And I got a nice ranking ! [rank page](http://www.codingame.com/ranking/vox-codei/378743e67254ca00eeb3eb404a039437f806dd)
